@@ -1,0 +1,9 @@
+C:\Users\Spencer Wright\Documents\Parser\parser\parser\bin\Debug\parser.exe.config
+C:\Users\Spencer Wright\Documents\Parser\parser\parser\bin\Debug\parser.exe
+C:\Users\Spencer Wright\Documents\Parser\parser\parser\bin\Debug\parser.pdb
+C:\Users\Spencer Wright\Documents\Parser\parser\parser\obj\Debug\parser.csprojResolveAssemblyReference.cache
+C:\Users\Spencer Wright\Documents\Parser\parser\parser\obj\Debug\parser.Form1.resources
+C:\Users\Spencer Wright\Documents\Parser\parser\parser\obj\Debug\parser.Properties.Resources.resources
+C:\Users\Spencer Wright\Documents\Parser\parser\parser\obj\Debug\parser.csproj.GenerateResource.Cache
+C:\Users\Spencer Wright\Documents\Parser\parser\parser\obj\Debug\parser.exe
+C:\Users\Spencer Wright\Documents\Parser\parser\parser\obj\Debug\parser.pdb
